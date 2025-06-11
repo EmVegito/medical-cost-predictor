@@ -1,0 +1,2 @@
+# Enforce LF for Jupyter notebooks
+*.ipynb text eol=lf
